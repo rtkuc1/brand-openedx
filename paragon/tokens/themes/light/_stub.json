@@ -1,1 +1,9 @@
-{}
+{
+  "color": {
+    "primary": {
+      "base": {
+        "$value": "#fd7e14"
+      }
+    }
+  }
+}
